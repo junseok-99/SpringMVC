@@ -1,5 +1,5 @@
-<%@ page import="hello.servlet.domain.member.Member" %><%--
-  Created by IntelliJ IDEA.
+<%--
+Created by IntelliJ IDEA.
   User: 장준석
   Date: 2023-07-11
   Time: 오전 12:01
